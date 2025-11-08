@@ -7,7 +7,7 @@ namespace APIVerve
     public class CommentGeneratorQueryOptions {
 public string mode { get; set; }
 public string tone { get; set; }
-public integer count { get; set; }
-public boolean emojis { get; set; }
+public int count { get; set; }
+public bool emojis { get; set; }
 }
 }
